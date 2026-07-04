@@ -1,0 +1,3 @@
+print("I made many wrong decision in my life");
+print("My mood is totally spoiled);
+print("I dont want to live this life")
